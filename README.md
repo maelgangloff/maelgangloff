@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maël</h1>
+<h1 align="center">Hi 👋</h1>
 
-<h3>I'm Maël, a first year student at the University of Lorraine in France.</h3>
+### I am Maël, a first year student at Polytech Nancy, part of the University of Lorraine in France.
 
 ![](https://dcbadge.vercel.app/api/shield/357508678783336459)
 ![](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
