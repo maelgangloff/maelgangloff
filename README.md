@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 
-### I am Maël, a first year student at Polytech Nancy, part of the University of Lorraine in France.
+### I am Maël, a first year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
+#### I am currently studying in an integrated preparatory course in the engineering school and I would like to become a computer engineer.  
+#### Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
+
 
 ![](https://dcbadge.vercel.app/api/shield/357508678783336459)
 ![](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
