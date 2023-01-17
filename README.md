@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋</h1>
 
 ### I am Maël, a first year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
-#### I am currently studying in an integrated preparatory course in the engineering school and I would like to become a computer engineer.  
+#### Currently in a preparatory class integrated into an engineering school, I would like to become a computer engineer. 
 #### Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
 
+Email: contact@maelgangloff.fr  
+My GPG key: [0x323E63F1AB879F30B38F527611FDC81C24A7F629](https://keys.openpgp.org/vks/v1/by-fingerprint/323E63F1AB879F30B38F527611FDC81C24A7F629)
 
-![](https://dcbadge.vercel.app/api/shield/357508678783336459)
 ![](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/mgangloff?style=for-the-badge)
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maelgangloff)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GangloffMael)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/maelgangloff)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14125227)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maelgangloff)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mael.gangloff)
+![](https://dcbadge.vercel.app/api/shield/357508678783336459)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maelgangloff)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/GangloffMael)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/maelgangloff)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14125227)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/maelgangloff)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/mael.gangloff)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -55,7 +55,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=maelgangloff&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
-If you have too much money or just want to help me make the world of tomorrow a better place, you are free to make a donation (it will probably end up in the purchase of a packet of pasta😉).  
+If you have too much money or just want to help me make the world of tomorrow a better place, you are free to make a donation (it will probably end up in the purchase of a packet of pasta 😉).  
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maelgangloff)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maelgangloff)
