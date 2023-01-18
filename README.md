@@ -5,7 +5,7 @@
 #### Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
 
 Email: contact@maelgangloff.fr  
-My GPG key: [0x323E63F1AB879F30B38F527611FDC81C24A7F629](https://keys.openpgp.org/vks/v1/by-fingerprint/323E63F1AB879F30B38F527611FDC81C24A7F629)
+The fingerprint of my GPG key: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F629](https://keys.openpgp.org/vks/v1/by-fingerprint/323E63F1AB879F30B38F527611FDC81C24A7F629)
 
 ![](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
 
