@@ -50,9 +50,8 @@ The fingerprint of my GPG key: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F62
 ![](https://github-profile-trophy.vercel.app/?username=maelgangloff&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
-If you have too much money or just want to help me make the world of tomorrow a better place, you are free to make a donation (it will probably end up in the purchase of a packet of pasta 😉).  
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maelgangloff)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maelgangloff)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maelgangloff) 
-![](https://hit.yhype.me/github/profile?user_id=51171251)
+![](https://hit.yhype.me/github/profile?user_id=51171251)  
+If you have too much money or just want to help me make the world of tomorrow a better place, you are free to make a donation (it will probably end up in the purchase of a packet of pasta 😉).  
