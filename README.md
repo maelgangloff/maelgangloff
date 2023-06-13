@@ -5,12 +5,13 @@
 #### Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
 
 Email: contact@maelgangloff.fr  
-The fingerprint of my GPG key: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F629](https://maelgangloff.fr/pgp-key.txt)
+More security information: [security.txt](https://maelgangloff.fr/.well-known/security.txt)  
+**The fingerprint of my GPG key: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F629](https://maelgangloff.fr/pgp-key.txt)**  
 
-![](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
+![Profile views counter](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
 
 ## 🌐 Socials:
-![](https://dcbadge.vercel.app/api/shield/357508678783336459)
+![Discord status](https://dcbadge.vercel.app/api/shield/357508678783336459)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maelgangloff)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/GangloffMael)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/maelgangloff)
