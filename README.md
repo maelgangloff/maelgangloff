@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-### I am Maël, a first year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
+### I am Maël, a second year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
 #### Currently in a preparatory class integrated into an engineering school, I would like to become a computer engineer. 
 #### Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
 
