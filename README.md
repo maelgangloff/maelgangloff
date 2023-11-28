@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋</h1>
 
-### I am Maël, a second year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
-#### Currently in a preparatory class integrated into an engineering school, I would like to become a computer engineer. 
-#### Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
+I am Maël, a second year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
 
-Email: contact@maelgangloff.fr  
-More security information: [security.txt](https://maelgangloff.fr/.well-known/security.txt)  
-**The fingerprint of my GPG key: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F629](https://maelgangloff.fr/pgp-key.txt)**  
+Currently in a preparatory class integrated into an engineering school, I would like to become a computer engineer.
+
+> Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
+
+
+I currently hold the position of IT Project Manager at the Junior-Enterprise [Polytech Services Nancy](https://polytech-services-nancy.fr). The association aims to connect students and businesses through projects.
+
+Email: contact@maelgangloff.fr | More security information: [security.txt](https://maelgangloff.fr/.well-known/security.txt)  
+**GPG fingerprint: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F629](https://maelgangloff.fr/pgp-key.txt)**  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
 
