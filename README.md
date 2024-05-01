@@ -6,7 +6,6 @@ Currently in a preparatory class integrated into an engineering school, I would 
 
 > Passionate about cybersecurity, I think too many sites/infrastructures are not sufficiently secure and compromise the privacy of our personal data. Cybersecurity is for me one of the most important issues of today and tomorrow.
 
-
 I currently hold the position of IT Project Manager at the Junior-Enterprise [Polytech Services Nancy](https://polytech-services-nancy.fr). The association aims to connect students and businesses through projects.
 
 Email: contact@maelgangloff.fr | More security information: [security.txt](https://maelgangloff.fr/.well-known/security.txt)  
