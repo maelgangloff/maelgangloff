@@ -15,7 +15,7 @@ Email: contact@maelgangloff.fr | More security information: [security.txt](https
 ![Profile views counter](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
 
 ## 🌐 Socials:
-![Discord status](https://dcbadge.limes.ping/api/shield/357508678783336459)
+![Discord status](https://dcbadge.limes.pink/api/shield/357508678783336459)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maelgangloff)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/GangloffMael)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/maelgangloff)
