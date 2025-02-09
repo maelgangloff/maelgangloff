@@ -10,7 +10,7 @@ Currently an engineering student specializing in Information Systems and Technol
 I currently hold the position of IT Manager at the Junior-Enterprise [Polytech Services Nancy](https://polytech-services-nancy.fr). The association aims to connect students and businesses through projects.
 
 Email: contact@maelgangloff.fr | More security information: [security.txt](https://maelgangloff.fr/.well-known/security.txt)  
-**GPG fingerprint: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F629](https://maelgangloff.fr/pgp-key.txt)**  
+**GPG fingerprint: [323E 63F1 AB87 9F30 B38F 5276 11FD C81C 24A7 F629](https://maelgangloff.fr/.well-known/openpgpkey/hu/dj3498u4hyyarh35rkjfnghbjxug6b19)**  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
 
