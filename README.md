@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-I am Maël, a third year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
+I am [Maël Gangloff](https://maelgangloff.fr), a third year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
 
 Currently an engineering student specializing in Information Systems and Technologies, I would like to become a computer engineer.
 
@@ -16,12 +16,12 @@ Email: contact@maelgangloff.fr | More security information: [security.txt](https
 
 ## 🌐 Socials:
 ![Discord status](https://dcbadge.limes.pink/api/shield/357508678783336459)
+[![My website](https://img.shields.io/badge/My_website-blue?logoColor=white&style=for-the-badge)](https://maelgangloff.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maelgangloff)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/GangloffMael)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/maelgangloff)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14125227)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/maelgangloff)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/mael.gangloff)
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
