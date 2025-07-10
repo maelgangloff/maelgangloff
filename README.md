@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-I am [Maël Gangloff](https://maelgangloff.fr), a third year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
+I am [Maël Gangloff](https://maelgangloff.fr), a fourth year student at Polytech Nancy, part of the University of Lorraine in France. 👨‍🎓
 
 Currently an engineering student specializing in Information Systems and Technologies, I would like to become a computer engineer.
 
