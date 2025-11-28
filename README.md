@@ -14,7 +14,7 @@ Email: contact@maelgangloff.fr | More security information: [security.txt](https
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=maelgangloff&color=0e75b6&style=for-the-badge)
 
-## 🌐 Socials:
+## 🌐 Socials
 ![Discord status](https://dcbadge.limes.pink/api/shield/357508678783336459)
 [![My website](https://img.shields.io/badge/My_website-blue?logoColor=white&style=for-the-badge)](https://maelgangloff.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maelgangloff)
@@ -23,7 +23,7 @@ Email: contact@maelgangloff.fr | More security information: [security.txt](https
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/14125227)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/maelgangloff)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,8 +42,7 @@ Email: contact@maelgangloff.fr | More security information: [security.txt](https
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=maelgangloff&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maelgangloff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maelgangloff&theme=dark&hide_border=false)
@@ -52,6 +51,7 @@ Email: contact@maelgangloff.fr | More security information: [security.txt](https
 ![](https://github-profile-trophy.vercel.app/?username=maelgangloff&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/maelgangloff)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/maelgangloff)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maelgangloff)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/maelgangloff) 
